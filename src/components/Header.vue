@@ -24,7 +24,7 @@
 
 .headerContainer {
     background-color: #EF5350;
-    height: 6rem;
+    height: 6.2rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -34,7 +34,7 @@
 .logo {
     width: auto;
     height: 3.5rem;
-    padding-left: 1.5rem;
+    padding-left: 2rem;
 }
 
 .navBar {
@@ -43,7 +43,7 @@
     padding: 0;
     font-weight: bolder;
     justify-content: space-evenly;
-    width: 20rem;
+    width: 25rem;
     padding-right: 1.5rem;
 }
 
