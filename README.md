@@ -1,5 +1,4 @@
 # pokedex
-
 A project made in July 2022 to test out Vue.js
 
 ## Project setup
